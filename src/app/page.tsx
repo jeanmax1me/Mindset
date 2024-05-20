@@ -16,10 +16,10 @@ export default function Home() {
           <ul className="list-disc pl-6 mb-4 space-y-2">
             <li className="text-lg">Méditation (facile à trouver sur le smartphone) 5-20min</li>
             <li className="text-lg">
-              Mindset Work 5-15min : Réfléchissez à vos objectifs du jour, organisez votre journée et assurez-vous qu'elle s'inscrit dans vos objectifs à long terme
+              Mindset Work 5-15min : Réfléchissez à vos objectifs du jour, organisez votre journée et assurez-vous qu&apos;elle s&apos;inscrit dans vos objectifs à long terme
             </li>
             <li className="text-lg">
-              Affirmations positives pendant 2 à 10 minutes pour vous mettre dans un état d'esprit productif et efficace
+              Affirmations positives pendant 2 à 10 minutes pour vous mettre dans un état d&apos;esprit productif et efficace
             </li>
             <li className="text-lg">
               Stretching/Musculation pendant 2 à 10 minutes : Faites des pompes, des abdos, des exercices avec altères ou tractions, ou simplement des étirements légers pour réveiller votre corps après la partie mentale
@@ -40,7 +40,7 @@ export default function Home() {
             <li className="text-lg">168 heures précieuses dans une semaine</li>
             <li className="text-lg">Se concentrer sur soi-même, sa santé et son bien-être personnel</li>
             <li className="text-lg">Ne pas se prendre trop au sérieux</li>
-            <li className="text-lg">S'amuser dans tout ce que je fais</li>
+            <li className="text-lg">S&apos;amuser dans tout ce que je fais</li>
             <li className="text-lg">Ne jamais critiquer les autres</li>
             <li className="text-lg">Complimenter généreusement</li>
             <li className="text-lg">Toujours apprendre et évoluer pour devenir la meilleure version de soi-même</li>
@@ -51,7 +51,7 @@ export default function Home() {
         <section className="mb-12">
           <h2 className="text-2xl font-bold mb-6 text-mint-700">Vision à long terme</h2>
           <p className="text-gray-600">
-            Créer une agence en tant que solopreneur, trouver des clients, en trouver toujours plus, développer l'activité, devenir une agence à succès, pouvoir déléguer pour se concentrer sur son domaine de prédilection et avoir du temps libre (développement ? prospection ? relation client ?). Un scaling infini vers la réussite !
+            Créer une agence en tant que solopreneur, trouver des clients, en trouver toujours plus, développer l&apos;activité, devenir une agence à succès, pouvoir déléguer pour se concentrer sur son domaine de prédilection et avoir du temps libre (développement ? prospection ? relation client ?). Un scaling infini vers la réussite !
           </p>
         </section>
 
@@ -59,7 +59,7 @@ export default function Home() {
         <section className="mb-12">
           <h2 className="text-2xl font-bold mb-6 text-mint-700">Mission</h2>
           <p className="text-gray-600">
-            Trouver des clients, réaliser des prestations de qualité, satisfaire les clients pour qu'ils recommandent l'agence autour d'eux, créer un cercle vertueux de bouche-à-oreille, proposer des produits de qualité à des prix compétitifs, apporter la plus grande valeur possible aux clients.
+            Trouver des clients, réaliser des prestations de qualité, satisfaire les clients pour qu&apos;ils recommandent l&apos;agence autour d&apos;eux, créer un cercle vertueux de bouche-à-oreille, proposer des produits de qualité à des prix compétitifs, apporter la plus grande valeur possible aux clients.
           </p>
         </section>
 
@@ -71,7 +71,7 @@ export default function Home() {
           <h3 className="text-xl font-bold mb-2 text-gray-600">Valeurs professionnelles</h3>
           <ul className="list-disc pl-6 mb-4 space-y-2 text-gray-600">
             <li className="text-lg">Admettre ses erreurs et en tirer les leçons</li>
-            <li className="text-lg">Viser l'excellence dans tout ce que j'entreprends</li>
+            <li className="text-lg">Viser l&apos;excellence dans tout ce que j&apos;entreprends</li>
             <li className="text-lg">Simplifier les choses autant que possible</li>
             <li className="text-lg">Donner le meilleur de soi-même pour réussir</li>
             <li className="text-lg">Être exigeant envers soi-même</li>
